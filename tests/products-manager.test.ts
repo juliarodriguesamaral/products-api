@@ -1,4 +1,4 @@
-import { ProductManager } from './products-manager';
+import { ProductManager } from '../src/products-manager'
 
 describe('ProductManager', () => {
   let productManager;
