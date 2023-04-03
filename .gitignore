@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# Output
+dist/
+build/
+coverage/
+
+# Environment
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
